@@ -1,0 +1,17 @@
+[
+  {
+    "nombre": "sofia",
+    "password": "admin",
+    "rol": "admin"
+  },
+  {
+    "nombre": "Omaru",
+    "password": "C0r45on.puro",
+    "rol": "admin"
+  },
+  {
+    "nombre": "cajero",
+    "password": "cajero",
+    "rol": "cajero"
+  }
+]

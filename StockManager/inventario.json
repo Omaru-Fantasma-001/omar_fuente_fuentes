@@ -1,0 +1,23 @@
+{
+  "inventario": [
+    {
+      "id": 1,
+      "nombre": "Cafe",
+      "precio": 1200.0,
+      "stock": 100
+    },
+    {
+      "id": 2,
+      "nombre": "harina",
+      "precio": 2400.0,
+      "stock": 100
+    },
+    {
+      "id": 3,
+      "nombre": "azucar",
+      "precio": 2100.0,
+      "stock": 100
+    }
+  ],
+  "siguiente_id": 4
+}

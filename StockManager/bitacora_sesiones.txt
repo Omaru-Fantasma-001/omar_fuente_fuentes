@@ -1,0 +1,35 @@
+2025-05-17 22:36:31 | Login: Omaru
+2025-05-18 00:14:48 | Login: Omaru
+2025-05-18 00:54:48 | Login | Usuario: Omaru
+2025-05-18 00:55:08 | Alta producto | Cafe | Precio: $1200.00 | Stock: 34
+2025-05-18 00:56:33 | Alta producto | harina | Precio: $2400.00 | Stock: 30
+2025-05-18 01:09:30 | Login | Usuario: admin | Rol: admin
+2025-05-18 01:10:33 | Alta producto | azucar | Precio: $2100.00 | Stock: 40
+2025-05-18 01:17:34 | Venta | 12 x Cafe ($14400.00) | 2 x harina ($4800.00) | 4 x azucar ($8400.00) | Total: $27600.00
+2025-05-18 01:39:18 | Logout | Usuario: admin | Rol: admin
+2025-05-18 01:46:58 | Login | Usuario: Omaru | Rol: admin
+2025-05-18 01:48:00 | Logout | Usuario: Omaru | Rol: admin
+2025-05-18 01:48:56 | Login | Usuario: Omaru | Rol: admin
+2025-05-18 01:50:07 | Venta | 2 x Cafe ($2400.00) | 5 x harina ($12000.00) | 8 x azucar ($16800.00) | Total: $31200.00
+2025-05-18 01:55:04 | Login | Usuario: Omaru | Rol: admin
+2025-05-18 01:56:11 | Logout | Usuario: Omaru | Rol: admin
+2025-05-18 01:57:10 | Login | Usuario: Omaru | Rol: admin
+2025-05-18 01:57:13 | Logout | Usuario: Omaru | Rol: admin
+2025-05-18 01:58:09 | Login | Usuario: Omaru | Rol: admin
+2025-05-18 02:00:57 | Logout | Usuario: Omaru | Rol: admin
+2025-05-18 02:17:30 | Logout | Usuario: Omaru | Rol: admin
+2025-05-18 02:17:43 | Login | Usuario: Omaru | Rol: admin
+2025-05-18 02:19:28 | Logout | Usuario: Omaru | Rol: admin
+2025-05-18 02:20:45 | Login | Usuario: Omaru | Rol: admin
+2025-05-18 02:20:57 | Logout | Usuario: Omaru | Rol: admin
+2025-05-18 02:32:58 | Login | Usuario: Omaru | Rol: admin
+2025-05-18 02:53:12 | Logout | Usuario: Omaru | Rol: admin
+2025-05-20 00:11:34 | Login | Usuario: Omaru | Rol: admin
+2025-05-20 00:12:12 | Logout | Usuario: Omaru | Rol: admin
+2025-05-20 00:31:00 | Login | Usuario: Omaru | Rol: admin
+2025-05-20 00:35:49 | Logout | Usuario: Omaru | Rol: admin
+2025-05-20 00:44:03 | Login | Usuario: Omaru | Rol: admin
+2025-05-20 00:44:42 | Login | Usuario: Omaru | Rol: admin
+2025-05-20 00:46:44 | Logout | Usuario: Omaru | Rol: admin
+2025-05-20 00:47:00 | Login | Usuario: Omaru | Rol: admin
+2025-05-20 00:53:28 | Login | Usuario: Omaru | Rol: admin

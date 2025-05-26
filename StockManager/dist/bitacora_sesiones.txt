@@ -1,0 +1,14 @@
+2025-05-24 00:44:17 | Login | Usuario: admin | Rol: admin
+2025-05-24 00:49:16 | Login | Usuario: Omaru | Rol: admin
+2025-05-24 00:49:32 | Login | Usuario: cajero | Rol: cajero
+2025-05-24 00:49:47 | Login | Usuario: admin | Rol: admin
+2025-05-24 00:51:44 | Login | Usuario: admin | Rol: admin
+2025-05-24 00:51:55 | Logout | Usuario: admin | Rol: admin
+2025-05-24 01:14:10 | Login | Usuario: admin | Rol: admin
+2025-05-24 01:14:17 | Logout | Usuario: admin | Rol: admin
+2025-05-24 01:40:05 | Login | Usuario: admin | Rol: admin
+2025-05-24 01:40:53 | Alta producto | cafe | Precio: $1200.00 | Stock: 23
+2025-05-24 01:42:39 | Login | Usuario: sofia | Rol: admin
+2025-05-24 01:43:28 | Logout | Usuario: sofia | Rol: admin
+2025-05-24 01:45:22 | Login | Usuario: sofia | Rol: admin
+2025-05-24 01:47:10 | Logout | Usuario: sofia | Rol: admin
